@@ -11,6 +11,7 @@ Streaming platforms need to understand historical content trends to optimize acq
 Short action movies were relatively rare in the 1990s dataset.
 If modern audiences show preference for shorter content, this may represent an acquisition opportunity.
 
+```python
 
 #Importing pandas and matplotlib
 import pandas as pd
@@ -56,7 +57,7 @@ print(short_movie_count)
 
 #A quicker way of counting values in a column would be to use .sum() on 'duration' but for this specific project, I wanted to showcase the loop function
 (action_movies_90s["duration"] < 90).sum()
-
+```
 
 <img width="620" height="452" alt="Screenshot 2026-02-15 at 17 35 16" src="https://github.com/user-attachments/assets/b2bd4d7d-2384-42d4-8f74-8c52cc72fc1f" />
 <img width="366" height="428" alt="Screenshot 2026-02-15 at 17 35 31" src="https://github.com/user-attachments/assets/cb86086e-5f2e-4ade-9829-f6389fbb958c" />
