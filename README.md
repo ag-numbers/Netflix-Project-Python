@@ -1,6 +1,6 @@
 # Exploratory Data Analysis project focused on content duration trends
 ## Business Problem
-Streaming platforms need to understand historical content trends to optimize acquisition strategy.This project analyzes 1990s movie duration patterns to identify potential content gaps
+Streaming platforms need to understand historical content trends to optimize acquisition strategy. This project analyzes 1990s movie duration patterns to identify potential content gaps.
 
 ## Key Findings
 	•	The most common movie duration was 100 minutes
