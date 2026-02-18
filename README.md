@@ -1,13 +1,13 @@
 # Exploratory Data Analysis project focused on content duration trends
-##Business Problem
+## Business Problem
 Streaming platforms need to understand historical content trends to optimize acquisition strategy.This project analyzes 1990s movie duration patterns to identify potential content gaps
 
-##Key Findings
+## Key Findings
 	•	The most common movie duration was 100 minutes
 	•	Only 7 action movies were shorter than 90 minutes
 	•	The duration distribution is right-skewed
 
-##Business Insight
+## Business Insight
 Short action movies were relatively rare in the 1990s dataset.
 If modern audiences show preference for shorter content, this may represent an acquisition opportunity.
 
